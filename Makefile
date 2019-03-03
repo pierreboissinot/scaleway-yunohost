@@ -1,8 +1,8 @@
 NAME =			yunohost
 VERSION =		latest
-VERSION_ALIASES =	
-TITLE =			Cozy Cloud
-DESCRIPTION =		Cozy Cloud
+VERSION_ALIASES =
+TITLE =			Yunohost
+DESCRIPTION =		Yunohost
 SOURCE_URL =		https://github.com/scaleway-community/scaleway-yunohost
 VENDOR_URL =		http://yunohost.org/
 DEFAULT_IMAGE_ARCH =	x86_64
